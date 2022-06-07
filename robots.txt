@@ -1,0 +1,49 @@
+User-agent: COMODO
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: BomboraBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: trendictionbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: / 
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: Googlebot-Mobile
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+Allow: /*.xml$
+Allow: /*.txt.gz$
+
+User-Agent: *
+
+Disallow: /oc-config
+
+Disallow: /oc-content
+
+Disallow: /oc-includes
+
+Disallow: /*?*
+
+
+
+Sitemap: http://moviescombo.xyz/sitemap.xml
+
+
+
